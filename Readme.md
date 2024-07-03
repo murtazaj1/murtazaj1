@@ -1,7 +1,3 @@
-Certainly! Here's a template for a GitHub profile README for a full stack web developer:
-
----
-
 # Hi there, I'm Murtaza! 👋
 
 ## About Me
@@ -16,16 +12,13 @@ I'm a passionate full stack web developer with [X] years of experience creating 
 
 
 ## Education
-- **Degree Name**: University Name (Year)
+- Master of Computer Science (MSCS) Foundation for Advancement of Science and Technology
 
 ## Contact Me
-- LinkedIn: [Your LinkedIn Profile URL](link)
-- Email: your@email.com
-- Portfolio: [Your Portfolio Website URL](link)
+- Upwork https://www.upwork.com/freelancers/~014e0d2dd1fe7cfd0f
 
 ## Fun Facts
-- Hobbies or interests related to tech or web development.
-- Favorite programming languages or frameworks.
+- Along with Full Stack Development, I thrive in Digital Marketing as well.
 
 ## Let's Connect!
 Feel free to reach out if you're interested in collaborating on a project or just want to chat about web development!
