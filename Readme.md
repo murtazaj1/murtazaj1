@@ -1,7 +1,7 @@
 # Hi there, I'm Murtaza! 👋
 
 ## About Me
-I'm a passionate full stack web developer with [X] years of experience creating robust code for high-volume businesses. My expertise lies in front-end development using modern JavaScript frameworks like React and Vue.js, as well as back-end development in Node.js and Python/Django. I enjoy turning complex problems into simple, beautiful, and intuitive designs.
+I'm a passionate full stack web developer with 6 years of experience creating robust code for high-volume businesses. My expertise lies in front-end development using modern JavaScript frameworks like React and Vue.js, as well as back-end development in Node.js and Python/Django. I enjoy turning complex problems into simple, beautiful, and intuitive designs.
 
 ## Skills
 - **Frontend**: HTML, CSS, JavaScript (ES6+), React, Vue.js
